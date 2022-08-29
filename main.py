@@ -1,3 +1,4 @@
+#100 days of code course project idea
 import random
 from tkinter import *
 
